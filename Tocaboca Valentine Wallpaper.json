@@ -5,10 +5,10 @@
 
 "TOAST_NOTIF" : false,
 
-"MODE_NO_ADS" : true,
-"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -19,16 +19,16 @@
 
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "FAN",
 
-"INTERS_COUNT_WEB" : 5,
+"INTERS_COUNT_WEB" : 2,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-2732470941956891/7244210361",
+"ADMOB_INTER" : "ca-app-pub-2732470941956891/1673949790",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -49,7 +49,7 @@
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "1065276707925516_1065280084591845",
 
 
 "BUTTON_RATING" : "RATING",
@@ -57,20 +57,20 @@
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
+So that we are more enthusiastic about developing this application
 
-bantu kami dengan rating bintang 5 ya
+Help us with a 5 star rating
 
-klik tombol rating
+Click the rating button
 
 ",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
+Wow, this application is really good
+I've tried it
+try downloading it now too
 
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
